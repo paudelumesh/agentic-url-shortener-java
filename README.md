@@ -1,8 +1,8 @@
-# Agentic URL Shortener System (Java Port)
+# Agentic URL Shortener System
 
 A URL shortener service built and evolved by a real agentic orchestration
 engine, demonstrating end-to-end SDLC automation with controlled autonomy.
-This is a Java 21 / Spring Boot 3 port of the original Python project.
+This is a Java 21 / Spring Boot 3 project.
 
 - **Product:** `urlshortener` — Spring Boot + SQLite URL shortener with
   create/redirect/analytics/delete APIs, rate limiting, and collision-safe
